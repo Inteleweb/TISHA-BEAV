@@ -12,7 +12,7 @@ if (time() > $deadline) {
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>No Music Until Chatzos</title>
+  <title>Yossi Green and his most famous compositions</title>
   <meta name="viewport" content="width=400, initial-scale=1.0">
   <style>
     body { font-family: Arial, sans-serif; background: #f8f8fa; text-align: center; margin-top: 100px; }
