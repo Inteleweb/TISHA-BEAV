@@ -9,3 +9,4 @@
 Their URLs don't seem to work by category or have a structure rather each has their own url.
 :::
 
+## Also note github doesn't support Admonition.
